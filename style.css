@@ -1,0 +1,73 @@
+.div{
+    display: flex;
+}
+
+body{
+    background-color: #606f88;
+}
+.background{
+    
+    margin: auto;
+    margin-top: 5rem;
+    background-image: url(./guess.jpeg);
+    background-size: contain;
+    padding-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    width: 34rem;
+    height: 25rem;
+}
+
+#attempt{
+    width: 6rem;
+    height: 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+
+#input{
+    width: 13rem;
+    
+}   
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.buttons{
+    margin-top: 1.5rem;
+}
+
+#btn{
+    cursor: pointer;
+    width: 4rem;
+    font-family: 'Manrope', sans-serif;
+font-family: 'Righteous', cursive;
+}
+
+#reset{
+    cursor: pointer;
+    width: 4rem;
+    font-family: 'Manrope', sans-serif;
+font-family: 'Righteous', cursive;
+
+}
+
+.div{
+    color: white;
+    font-family: 'Manrope', sans-serif;
+font-family: 'Righteous', cursive;
+}
+
+#attempt{
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Righteous', cursive;
+}
