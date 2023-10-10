@@ -1,7 +1,5 @@
 # Project-01 : Find the Number Game (JS-01)
 
-## Live at:  https://umutplvn.github.io/Guess-The-Num./
-
 ## Description
 
 Project aims to create find the number game (between 0 to 100).
