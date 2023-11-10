@@ -76,6 +76,5 @@ Build a Find the Number Game (Between 0 to 100)
 
 - Step 5: Deploy your application on Github template to showcase your app within your team.
 
-
 <p align='center'> <strong>⌛ Happy Coding  ✍</strong> </p>
 
